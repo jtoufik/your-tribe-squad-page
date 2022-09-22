@@ -19,7 +19,7 @@ body
   background-image: url(../assets/BG2.png);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 115%;
+  height: 120%;
 }
 
 body::after
@@ -28,7 +28,7 @@ body::after
   background: rgba(211, 196, 172, 0.611);
   backdrop-filter: blur(-1px);
   width: 80%;
-  height: 115%;
+  height: 120%;
   position: absolute;
   top: 0;
   z-index: -1;
