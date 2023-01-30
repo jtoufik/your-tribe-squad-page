@@ -3,18 +3,20 @@
 # Straw Hats
 ![image](https://user-images.githubusercontent.com/112856292/191811833-5b5ca184-85a7-44cd-91bf-e9151a442084.png)
 
- * Live-url:
+## 📝Beschrijving 
+
+Hier Heb ik samen met mijn teamgenoten een squad-page opgebouwd van de hele klas. Dit hebben we gedaan met een thema van mijn favoriete Anime serie "One Piece"
   
-  # Kenmerken
+## 📍Kenmerken 
+
+De onderstaande tools hebben wij gebruikt voor het creeëren van de website
+* 🖥️ VSCode
+* ✍ Pen & Papier
+*  🖼 Canva
   
-  De onderstaande tools hebben wij gebruikt voor het creeëren van de website
-  * Visual Studio Code
-  * Canva
+## 🔧Gebruikte technieken
+* 💅 CSS
+* ⚙️ HTML
   
-  Codeertalen
-  * HTML
-  * CSS
-  
-  # Bronvermelding
-  Lettertypen
-  * https://fonts.google.com/
+# Bronvermelding
+* Lettertypen: https://fonts.google.com/
